@@ -20,3 +20,5 @@ This is the first usability test for the UX Lab site: https://cics.utk.edu/cci-u
 4. Make a reservation for the UX Lab on July 14th at 12pm to 1pm. Name the event whatever you want and put ‘test’ in the details.
 
 Link to live test: https://www.loop11.com/ui/?l11_uid=86600
+
+Preview of Test (Not Recorded): https://www.loop11.com/ui/?l11_uid=86600&l11_mode=preview
